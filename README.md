@@ -1,2 +1,3 @@
 # jspsych-image-resize-response
- New plugin for jspsych to resize an image
+
+This is a jsPsych plugin for resizing an image and recording the resize response.
